@@ -1,7 +1,5 @@
-/*EE242 PROJECT3: Root Finding Software For Third Degree Polynomials
-Name of the Student: Hýdýr Yüzügüzel
-Student Number:2008401159
-E-mail:hidir.yuzuguzel@boun.edu.tr
+/*Root Finding Software For Third Degree Polynomials using Newton's Method
+author: Hidir Yuzuguzel
 */
 #include <stdio.h>
 #include <stdlib.h> 
